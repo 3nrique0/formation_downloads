@@ -22,6 +22,9 @@ Pop3:
 https://mega.nz/#!7ppXCQ6C!8WwBN4MwufqaoTYa7RZ4wEs2RZJe9tjOEv8kXVnF-S8
 
 
+## Scripts
+https://mega.nz/#!DgwyiSDb!DeSrTFkkMb-Ulyz1JhVj3gL8vuOgbo21xWwHGc50Ivo
+
 
 ## Sample Genome
 

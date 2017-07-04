@@ -31,8 +31,10 @@ https://mega.nz/#!iwplhLqL!9TOvUEPxwgG4-XICURStQnC3qAsoBFBuiWZer37_i3E
 
 
 ## Slides
+Stacks:
 https://mega.nz/#!PhJwlIhJ!mqHJHePUOMiA9a8xliSh1ff2IcvrWsRzC0livuSTnmk
-
+Linux:
+https://mega.nz/#!TwY3ESQA!LQZ4_Opu1LNkdKtVLJn3frUNhqNLHEzrGZowtYTa7G4
 
 ## Pour les retardataires
 
